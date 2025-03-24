@@ -1,0 +1,5 @@
+pip install google-play-scraper pandas
+
+pip install nltk Sastrawi pandas
+
+pip install pandas numpy matplotlib seaborn scikit-learn nltk Sastrawi
