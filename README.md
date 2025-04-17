@@ -20,4 +20,4 @@ Proyek ini merupakan sistem analisis sentimen dari review produk Tokopedia, yang
 1. Clone repository ini:
    ```bash
    git clone https://github.com/Npppss/system-rekomendasi-transformer-model.git
-   cd system-rekomendasi-transformer-model
+   
