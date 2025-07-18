@@ -15,9 +15,4 @@ Proyek ini merupakan sistem analisis sentimen dari review produk Tokopedia, yang
 - `tokopedia_reviews_binary.csv` - Dataset dengan label biner (positif/negatif).
 - `requirments.txt` - Daftar dependencies yang dibutuhkan (perlu diperbaiki namanya jadi `requirements.txt`).
 
-## ⚙️ Cara Menjalankan
-
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/Npppss/system-rekomendasi-transformer-model.git
    
